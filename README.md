@@ -22,8 +22,7 @@ UI/UX: Custom styling, animations, and media queries for responsiveness
 
 Clone the repository:
 
-git clone https://github.com/your-username/spotify-clone.git
-cd spotify-clone
+https://github.com/Sachinrautela/-MelodyHub---A-Spotify-Clone
 
 Open the project:
 
